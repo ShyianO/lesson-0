@@ -1,1 +1,2 @@
-# lesson-0
+- [Preview](https://shyiano.github.io/lesson-0/)
+- [Pull Request](https://github.com/ShyianO/lesson-0/pull/1/files)
